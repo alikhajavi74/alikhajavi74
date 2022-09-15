@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Flutter & Android developer
+I'm Flutter & Android developer.
 see my works in [my instagram account](https://www.instagram.com/alikhajavi.ir/).
 
 - 🔭 I’m currently working on a project as a freelancer.
